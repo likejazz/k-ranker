@@ -1,11 +1,9 @@
 K-Ranker
 ========
 
-NOTICE
-------
-**This document is written in Korean.**
-
 K-Ranker is an algorithm that extracts keyword based on the order of priority.
+
+**NOTICE: This document is written in Korean.**
 
 K-Ranker는 우선순위에 따른 키워드 추출 알고리즘이다.
 
